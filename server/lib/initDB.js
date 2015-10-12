@@ -1,4 +1,4 @@
 ar initDB = {
-	  adminUser: { email: 'tony@tonybrown.me', password: 'JesusInMe', admin: true, firstName: 'Tony', lastName: 'Brown'  },
+	  adminUser: { email: '', password: '', admin: true, firstName: 'Tony', lastName: 'Brown'  },
 
 });
